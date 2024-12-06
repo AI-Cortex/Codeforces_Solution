@@ -35,7 +35,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Way%20Too%20Long%20Words.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -59,7 +59,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Watermelon.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -83,7 +83,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Team.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -107,7 +107,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Fixing%20the%20Expression.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -131,7 +131,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Waiting%20for....cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -155,7 +155,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Bit%2B%2B.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -179,7 +179,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Next%20Round.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -203,7 +203,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Domino%20piling.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -227,7 +227,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Beautiful%20Matrix.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -251,7 +251,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Petya%20and%20Strings.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -275,7 +275,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Helpful%20Maths.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -299,7 +299,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Word%20Capitalization.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -323,7 +323,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Boy%20or%20Girl.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -347,7 +347,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Bear%20and%20Big%20Brother.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -371,7 +371,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Stones%20on%20the%20Table.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -395,7 +395,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Elephant.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -419,7 +419,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Soldier%20and%20Bananas.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -443,7 +443,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Word.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -467,7 +467,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Wrong%20Subtraction.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -491,7 +491,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Nearly%20Lucky%20Number.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -515,7 +515,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Translation.cpp" target="_blank">
             solution c++
         </a>
     </td>
