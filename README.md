@@ -635,26 +635,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Queue%20at%20the%20School.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 27 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        27
     </td>
     <td>
-        ?
+        In Search of an Easy Problem
     </td>
     <td>
-        ?
+        1030A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1030/A" target="_blank">
             problem
         </a>
     </td>

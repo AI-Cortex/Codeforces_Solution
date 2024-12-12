@@ -1,7 +1,8 @@
-// My Codewars profile: https://www.codewars.com/users/AI-Cortex
-// Codewars solution GitHub repository: https://github.com/AI-Cortex/Codewars_Solution
+// my profile : https://codeforces.com/profile/AI-Cortex
+// Codeforces solution github repository : https://github.com/AI-Cortex/Codeforces_Solution
+//////////////////////////////////////////////////////////////////////
 // Name: Queue at the School
-// Link: sasdad
+// Link: https://codeforces.com/problemset/problem/266/B
 
 #include <iostream>
 using namespace std;
