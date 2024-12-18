@@ -779,26 +779,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Drinks.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 33 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        33
     </td>
     <td>
-        ?
+        Ultra-Fast Mathematician
     </td>
     <td>
-        ?
+        61A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/61/A" target="_blank">
             problem
         </a>
     </td>
