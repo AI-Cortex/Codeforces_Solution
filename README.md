@@ -827,26 +827,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Is%20your%20horseshoe%20on%20the%20other%20hoof.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 35 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        35
     </td>
     <td>
-        ?
+        Hulk
     </td>
     <td>
-        ?
+        705A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/705/A" target="_blank">
             problem
         </a>
     </td>
