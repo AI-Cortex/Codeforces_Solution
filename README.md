@@ -971,26 +971,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Insomnia%20cure.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 41 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        41
     </td>
     <td>
-        ?
+        Hit the Lottery
     </td>
     <td>
-        ?
+        996A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/996/A" target="_blank">
             problem
         </a>
     </td>
