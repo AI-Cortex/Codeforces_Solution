@@ -1019,26 +1019,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Anton%20and%20Letters.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 43 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        43
     </td>
     <td>
-        ?
+        Anton and Polyhedrons
     </td>
     <td>
-        ?
+        785A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/785/A" target="_blank">
             problem
         </a>
     </td>
