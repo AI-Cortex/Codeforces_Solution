@@ -1043,26 +1043,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Anton%20and%20Polyhedrons.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 44 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        44
     </td>
     <td>
-        ?
+        Games
     </td>
     <td>
-        ?
+        268A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/268/A" target="_blank">
             problem
         </a>
     </td>
