@@ -1091,26 +1091,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Candies%20and%20Two%20Sisters.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 46 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        46
     </td>
     <td>
-        ?
+        Fox And Snake
     </td>
     <td>
-        ?
+        510A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/510/A" target="_blank">
             problem
         </a>
     </td>
