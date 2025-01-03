@@ -1163,6 +1163,30 @@
         </a>
     </td>
     <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Sum%20of%20Round%20Numbers.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 49 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        49
+    </td>
+    <td>
+        The New Year: Meeting Friends
+    </td>
+    <td>
+        723A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/723/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
         <a href="" target="_blank">
             solution c++
         </a>
@@ -1179,7 +1203,7 @@
         .
     </td>
     <td>
-        141A
+        .
     </td>
     <td>
         <a href="" target="_blank">
@@ -1203,7 +1227,7 @@
         .
     </td>
     <td>
-        141A
+        .
     </td>
     <td>
         <a href="" target="_blank">
@@ -1227,7 +1251,7 @@
         .
     </td>
     <td>
-        141A
+        .
     </td>
     <td>
         <a href="" target="_blank">
@@ -1251,7 +1275,7 @@
         .
     </td>
     <td>
-        141A
+        .
     </td>
     <td>
         <a href="" target="_blank">
@@ -1275,7 +1299,7 @@
         .
     </td>
     <td>
-        141A
+        .
     </td>
     <td>
         <a href="" target="_blank">
@@ -1299,7 +1323,7 @@
         .
     </td>
     <td>
-        141A
+        .
     </td>
     <td>
         <a href="" target="_blank">
@@ -1323,7 +1347,7 @@
         .
     </td>
     <td>
-        141A
+        .
     </td>
     <td>
         <a href="" target="_blank">
@@ -1347,7 +1371,7 @@
         .
     </td>
     <td>
-        141A
+        .
     </td>
     <td>
         <a href="" target="_blank">
@@ -1371,7 +1395,7 @@
         .
     </td>
     <td>
-        141A
+        .
     </td>
     <td>
         <a href="" target="_blank">
@@ -1395,7 +1419,7 @@
         .
     </td>
     <td>
-        141A
+        .
     </td>
     <td>
         <a href="" target="_blank">
@@ -1419,7 +1443,7 @@
         .
     </td>
     <td>
-        141A
+        .
     </td>
     <td>
         <a href="" target="_blank">
@@ -1443,7 +1467,7 @@
         .
     </td>
     <td>
-        141A
+        .
     </td>
     <td>
         <a href="" target="_blank">
@@ -1467,7 +1491,7 @@
         .
     </td>
     <td>
-        141A
+        .
     </td>
     <td>
         <a href="" target="_blank">
@@ -1491,7 +1515,7 @@
         .
     </td>
     <td>
-        141A
+        .
     </td>
     <td>
         <a href="" target="_blank">
@@ -1515,7 +1539,7 @@
         .
     </td>
     <td>
-        141A
+        .
     </td>
     <td>
         <a href="" target="_blank">
@@ -1530,3 +1554,169 @@
 </tr>
 
 <!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
