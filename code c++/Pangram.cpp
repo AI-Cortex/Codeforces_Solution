@@ -15,7 +15,7 @@ int main() {
     cin >> len >> s;
     for(int i = 0; i < len; i++){
         index = tolower(s[i]);
-        a[index] = 1;
+        a[index-'a'] = 1;
     }
     for(int i = 0; i < 26; i++)
         if(a[i] == 0) 

@@ -1187,26 +1187,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/The%20New%20Year%20Meeting%20Friends.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 50 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        50
     </td>
     <td>
-        .
+        Police Recruits
     </td>
     <td>
-        .
+        427A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/427/A" target="_blank">
             problem
         </a>
     </td>
