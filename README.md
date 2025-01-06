@@ -1217,44 +1217,44 @@
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 51 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        51
     </td>
     <td>
-        .
+        New Year and Hurry
     </td>
     <td>
-        .
+        750A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/750/A" target="_blank">
             problem
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/New%20Year%20and%20Hurry.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 52 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        52
     </td>
     <td>
-        .
+        I_love_%username%
     </td>
     <td>
-        .
+        155A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/155/A" target="_blank">
             problem
         </a>
     </td>
