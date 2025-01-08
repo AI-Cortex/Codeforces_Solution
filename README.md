@@ -1283,26 +1283,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Sum.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 53 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        53
     </td>
     <td>
-        .
+        Soft Drinking
     </td>
     <td>
-        .
+        151A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/151/A" target="_blank">
             problem
         </a>
     </td>
