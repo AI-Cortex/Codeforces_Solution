@@ -1355,26 +1355,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/YES%20or%20YES.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 57 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        57
     </td>
     <td>
-        .
+        Again Twenty Five!
     </td>
     <td>
-        .
+        630A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/630/A" target="_blank">
             problem
         </a>
     </td>
