@@ -1403,26 +1403,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Restoring%20Three%20Numbers.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 59 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        59
     </td>
     <td>
-        .
+        Sereja and Dima
     </td>
     <td>
-        .
+        381A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/381/A" target="_blank">
             problem
         </a>
     </td>
