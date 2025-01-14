@@ -1427,26 +1427,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Sereja%20and%20Dima.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 60 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        60
     </td>
     <td>
-        .
+        Remove Smallest
     </td>
     <td>
-        .
+        1399A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1399/A" target="_blank">
             problem
         </a>
     </td>
