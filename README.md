@@ -1475,26 +1475,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Marathon.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 62 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        62
     </td>
     <td>
-        .
+        Yet Another Two Integers Problem
     </td>
     <td>
-        .
+        1409A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1409/A" target="_blank">
             problem
         </a>
     </td>
