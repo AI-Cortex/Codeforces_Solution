@@ -1523,26 +1523,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Lucky.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 64 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        64
     </td>
     <td>
-        .
+        Spy Detected!
     </td>
     <td>
-        .
+        1512A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1512/A" target="_blank">
             problem
         </a>
     </td>
