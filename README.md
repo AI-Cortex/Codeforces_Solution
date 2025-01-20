@@ -1571,26 +1571,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Division.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 66 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        66
     </td>
     <td>
-        .
+        Borze
     </td>
     <td>
-        .
+        32B
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/32/B" target="_blank">
             problem
         </a>
     </td>
