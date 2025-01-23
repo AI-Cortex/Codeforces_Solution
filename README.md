@@ -1643,26 +1643,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Codeforces%20Checking.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 69 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        69
     </td>
     <td>
-        .
+        Medium Number
     </td>
     <td>
-        .
+        1760A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1760/A" target="_blank">
             problem
         </a>
     </td>
