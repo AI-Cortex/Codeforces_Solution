@@ -1667,26 +1667,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Medium%20Number.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 70 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        70
     </td>
     <td>
-        .
+        Holiday Of Equality
     </td>
     <td>
-        .
+        758A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/758/A" target="_blank">
             problem
         </a>
     </td>
