@@ -1691,26 +1691,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Holiday%20Of%20Equality.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 71 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        71
     </td>
     <td>
-        .
+        Dislike of Threes
     </td>
     <td>
-        .
+        1560A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1560/A" target="_blank">
             problem
         </a>
     </td>
