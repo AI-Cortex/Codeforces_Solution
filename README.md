@@ -1811,26 +1811,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Team%20Olympiad.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 76 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        76
     </td>
     <td>
-        .
+        To My Critics
     </td>
     <td>
-        .
+        1850A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1850/A" target="_blank">
             problem
         </a>
     </td>
