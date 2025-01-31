@@ -1835,26 +1835,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/tree/main/code%20c%2B%2B" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 77 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        77
     </td>
     <td>
-        .
+        Die Roll
     </td>
     <td>
-        .
+        9A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/9/A" target="_blank">
             problem
         </a>
     </td>
