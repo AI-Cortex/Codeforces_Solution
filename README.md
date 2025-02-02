@@ -1907,26 +1907,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Mishka%20and%20Game.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 80 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        80
     </td>
     <td>
-        .
+        Balanced Array
     </td>
     <td>
-        .
+        1343B
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1343/B" target="_blank">
             problem
         </a>
     </td>
