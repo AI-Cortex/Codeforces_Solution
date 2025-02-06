@@ -1979,26 +1979,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Creating%20Words.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 83 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        83
     </td>
     <td>
-        .
+        Black Square
     </td>
     <td>
-        .
+        431A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/431/A" target="_blank">
             problem
         </a>
     </td>
@@ -2009,20 +2009,20 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 84 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        84
     </td>
     <td>
-        .
+        Stair, Peak, or Neither?
     </td>
     <td>
-        .
+        1950A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1950/A" target="_blank">
             problem
         </a>
     </td>
