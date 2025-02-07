@@ -2003,7 +2003,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Black%20Square.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -2027,26 +2027,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Stair%2C%20Peak%2C%20or%20Neither.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 85 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        85
     </td>
     <td>
-        .
+        Panoramix's Prediction
     </td>
     <td>
-        .
+        80A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/80/A" target="_blank">
             problem
         </a>
     </td>
@@ -2057,20 +2057,20 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 86 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        86
     </td>
     <td>
-        .
+        Required Remainder
     </td>
     <td>
-        .
+        1374A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1374/A" target="_blank">
             problem
         </a>
     </td>
