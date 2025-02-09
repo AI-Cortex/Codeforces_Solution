@@ -2099,26 +2099,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Love%20Story.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 89 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        89
     </td>
     <td>
-        .
+        Even Array
     </td>
     <td>
-        .
+        1367B
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1367/B" target="_blank">
             problem
         </a>
     </td>
@@ -2129,20 +2129,20 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 90 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        90
     </td>
     <td>
-        .
+        Maximum GCD
     </td>
     <td>
-        .
+        1370A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1370/A" target="_blank">
             problem
         </a>
     </td>
