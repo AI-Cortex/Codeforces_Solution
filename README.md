@@ -2171,26 +2171,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Boring%20Apartments.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 91 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        91
     </td>
     <td>
-        .
+        Square String?
     </td>
     <td>
-        .
+        1619A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1619/A" target="_blank">
             problem
         </a>
     </td>
@@ -2201,20 +2201,20 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 92 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        92
     </td>
     <td>
-        .
+        Spell Check
     </td>
     <td>
-        .
+        1722A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1722/A" target="_blank">
             problem
         </a>
     </td>
@@ -2225,20 +2225,20 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 93 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        93
     </td>
     <td>
-        .
+        Plus One on the Subset
     </td>
     <td>
-        .
+        1624A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1624/A" target="_blank">
             problem
         </a>
     </td>
