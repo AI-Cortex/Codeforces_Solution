@@ -2195,7 +2195,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Square%20String.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -2219,7 +2219,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Spell%20Check.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -2239,6 +2239,270 @@
     </td>
     <td>
         <a href="https://codeforces.com/problemset/problem/1624/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Plus%20One%20on%20the%20Subset.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 94 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        94
+    </td>
+    <td>
+        Do Not Be Distracted!
+    </td>
+    <td>
+        1520A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1520/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 95 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        95
+    </td>
+    <td>
+        Vasya the Hipster
+    </td>
+    <td>
+        581A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/581/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 96 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        96
+    </td>
+    <td>
+        Choosing Teams
+    </td>
+    <td>
+        432A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/432/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 97 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        97
+    </td>
+    <td>
+        Minimize!
+    </td>
+    <td>
+        2009A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/2009/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
             problem
         </a>
     </td>
