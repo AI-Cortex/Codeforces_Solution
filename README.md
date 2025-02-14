@@ -2363,26 +2363,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Minutes%20Before%20the%20New%20Year.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 99 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        99
     </td>
     <td>
-        .
+        Vanya and Cubes
     </td>
     <td>
-        .
+        492A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/492/A" target="_blank">
             problem
         </a>
     </td>
@@ -2393,20 +2393,20 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 100 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        100
     </td>
     <td>
-        .
+        ICPC Balloons
     </td>
     <td>
-        .
+        1703B
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1703/B" target="_blank">
             problem
         </a>
     </td>
@@ -2417,20 +2417,20 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 101 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        101
     </td>
     <td>
-        .
+        Polycarp and Coins
     </td>
     <td>
-        .
+        1551A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1551/A" target="_blank">
             problem
         </a>
     </td>
