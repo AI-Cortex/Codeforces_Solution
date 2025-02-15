@@ -2387,7 +2387,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Vanya%20and%20Cubes.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -2411,7 +2411,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/ICPC%20Balloons.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -2435,26 +2435,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Polycarp%20and%20Coins.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 102 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        102
     </td>
     <td>
-        .
+        Game with Integers
     </td>
     <td>
-        .
+        1899A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1899/A" target="_blank">
             problem
         </a>
     </td>
@@ -2465,20 +2465,20 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 103 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        103
     </td>
     <td>
-        .
+        Fair Division
     </td>
     <td>
-        .
+        1472B
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1472/B" target="_blank">
             problem
         </a>
     </td>
