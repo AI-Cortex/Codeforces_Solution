@@ -2459,7 +2459,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Game%20with%20Integers.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -2483,26 +2483,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Fair%20Division.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 104 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        104
     </td>
     <td>
-        .
+        Hard Problem
     </td>
     <td>
-        .
+        2044C
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/2044/C" target="_blank">
             problem
         </a>
     </td>
