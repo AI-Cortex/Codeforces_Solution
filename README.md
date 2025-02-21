@@ -2603,26 +2603,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Blank%20Space.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 109 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        109
     </td>
     <td>
-        .
+        Two Arrays And Swaps
     </td>
     <td>
-        .
+        1353B
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1353/B" target="_blank">
             problem
         </a>
     </td>
