@@ -2675,26 +2675,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/A%2BB.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 112 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        112
     </td>
     <td>
-        .
+        Bus to Udayland
     </td>
     <td>
-        .
+        711A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/711/A" target="_blank">
             problem
         </a>
     </td>
