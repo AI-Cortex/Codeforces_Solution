@@ -2699,26 +2699,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Bus%20to%20Udayland.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 113 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        113
     </td>
     <td>
-        .
+        Cherry
     </td>
     <td>
-        .
+        1554A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1554/A" target="_blank">
             problem
         </a>
     </td>
