@@ -2771,26 +2771,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/ABC.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 116 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        116
     </td>
     <td>
-        .
+        Odd/Even Increments
     </td>
     <td>
-        .
+        1669C
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1669/C" target="_blank">
             problem
         </a>
     </td>
@@ -2801,20 +2801,20 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 117 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        117
     </td>
     <td>
-        .
+        Brain's Photos
     </td>
     <td>
-        .
+        707A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/707/A" target="_blank">
             problem
         </a>
     </td>
