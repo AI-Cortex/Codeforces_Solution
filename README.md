@@ -2795,7 +2795,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Odd%20Even%20Increments.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -2819,26 +2819,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Brain's%20Photos.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 118 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        118
     </td>
     <td>
-        .
+        Minimal Square
     </td>
     <td>
-        .
+        1360A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1360/A" target="_blank">
             problem
         </a>
     </td>
