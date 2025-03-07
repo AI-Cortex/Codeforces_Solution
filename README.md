@@ -2939,26 +2939,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Collecting%20Coins.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 123 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        123
     </td>
     <td>
-        .
+        Magical Sticks
     </td>
     <td>
-        .
+        1371A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1371/A" target="_blank">
             problem
         </a>
     </td>
