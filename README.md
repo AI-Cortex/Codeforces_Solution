@@ -2993,44 +2993,44 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 125 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        125
     </td>
     <td>
-        .
+        Word on the Paper
     </td>
     <td>
-        .
+        1850C
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1850/C" target="_blank">
             problem
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Word%20on%20the%20Paper.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 126 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        126
     </td>
     <td>
-        .
+        Make it White
     </td>
     <td>
-        .
+        1927A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1927/A" target="_blank">
             problem
         </a>
     </td>
