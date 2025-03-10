@@ -3035,26 +3035,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Make%20it%20White.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 127 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        127
     </td>
     <td>
-        .
+        Target Practice
     </td>
     <td>
-        .
+        1873C
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1873/C" target="_blank">
             problem
         </a>
     </td>
