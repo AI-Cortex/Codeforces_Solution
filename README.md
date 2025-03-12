@@ -3059,26 +3059,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Target%20Practice.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 128 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        128
     </td>
     <td>
-        .
+        Honest Coach
     </td>
     <td>
-        .
+        1360B
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1360/B" target="_blank">
             problem
         </a>
     </td>
