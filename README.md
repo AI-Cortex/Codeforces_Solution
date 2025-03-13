@@ -3083,26 +3083,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Honest%20Coach.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 129 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        129
     </td>
     <td>
-        .
+        CopyCopyCopyCopyCopy
     </td>
     <td>
-        .
+        1325B
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1325/B" target="_blank">
             problem
         </a>
     </td>
