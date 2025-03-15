@@ -3131,26 +3131,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Triple.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 131 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        131
     </td>
     <td>
-        .
+        Robin Helps
     </td>
     <td>
-        .
+        2014A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/2014/A" target="_blank">
             problem
         </a>
     </td>
