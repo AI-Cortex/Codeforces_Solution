@@ -3155,26 +3155,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Robin%20Helps.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 132 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        132
     </td>
     <td>
-        .
+        Colourblindness
     </td>
     <td>
-        .
+        1722B
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1722/B" target="_blank">
             problem
         </a>
     </td>
