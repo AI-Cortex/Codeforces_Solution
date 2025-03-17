@@ -3179,26 +3179,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Colourblindness.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 133 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        133
     </td>
     <td>
-        .
+        Yogurt Sale
     </td>
     <td>
-        .
+        1955A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1955/A" target="_blank">
             problem
         </a>
     </td>
