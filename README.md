@@ -3227,26 +3227,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Grab%20the%20Candies.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 135 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        135
     </td>
     <td>
-        .
+        Not Quite Latin Square
     </td>
     <td>
-        .
+        1915B
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1915/B" target="_blank">
             problem
         </a>
     </td>
