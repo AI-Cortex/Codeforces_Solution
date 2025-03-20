@@ -3251,26 +3251,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Not%20Quite%20Latin%20Square.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 136 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        136
     </td>
     <td>
-        .
+        X Axis
     </td>
     <td>
-        .
+        1986A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1986/A" target="_blank">
             problem
         </a>
     </td>
