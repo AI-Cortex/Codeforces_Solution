@@ -3371,26 +3371,26 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Coins.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 141 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        141
     </td>
     <td>
-        .
+        Love "A"
     </td>
     <td>
-        .
+        1146A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/1146/A" target="_blank">
             problem
         </a>
     </td>
