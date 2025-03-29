@@ -3491,7 +3491,31 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Robot%20Program.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 146 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        146
+    </td>
+    <td>
+        FizzBuzz Remixed
+    </td>
+    <td>
+        2070A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/2070/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Robot%20Program.cpp" target="_blank">
             solution c++
         </a>
     </td>
