@@ -3545,6 +3545,30 @@
     </td>
 </tr>
 
+<!-- 148 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        148
+    </td>
+    <td>
+        There Are Two Types Of Burgers
+    </td>
+    <td>
+        1207A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1207/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/There%20Are%20Two%20Types%20Of%20Burgers.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
