@@ -3515,7 +3515,31 @@
         </a>
     </td>
     <td>
-        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Robot%20Program.cpp" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/FizzBuzz%20Remixed.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 147 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        147
+    </td>
+    <td>
+        Distinct Digits
+    </td>
+    <td>
+        1228A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1228/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Distinct%20Digits.cpp" target="_blank">
             solution c++
         </a>
     </td>
