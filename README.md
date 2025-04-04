@@ -3635,7 +3635,7 @@
         </a>
     </td>
     <td>
-        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c++/Fence.cpp" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Fence.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -3659,7 +3659,31 @@
         </a>
     </td>
     <td>
-        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c++/Regular%20Bracket%20Sequences.cpp" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Regular%20Bracket%20Sequences.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 153 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        153
+    </td>
+    <td>
+        Contest
+    </td>
+    <td>
+        501A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/501/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Contest.cpp" target="_blank">
             solution c++
         </a>
     </td>
