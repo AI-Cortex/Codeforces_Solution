@@ -3689,6 +3689,30 @@
     </td>
 </tr>
 
+<!-- 154 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        154
+    </td>
+    <td>
+        Cookies
+    </td>
+    <td>
+        129A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/129/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Cookies.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
