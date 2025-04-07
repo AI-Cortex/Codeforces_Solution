@@ -3713,6 +3713,30 @@
     </td>
 </tr>
 
+<!-- 155 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        155
+    </td>
+    <td>
+        Duff and Meat
+    </td>
+    <td>
+        588A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/588/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Duff%20and%20Meat.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
