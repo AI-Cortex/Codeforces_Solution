@@ -3737,6 +3737,30 @@
     </td>
 </tr>
 
+<!-- 156 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        156
+    </td>
+    <td>
+        Little Elephant and Rozdil
+    </td>
+    <td>
+        205A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/205/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Little%20Elephant%20and%20Rozdil.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
