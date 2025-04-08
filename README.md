@@ -3761,6 +3761,30 @@
     </td>
 </tr>
 
+<!-- 157 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        157
+    </td>
+    <td>
+        Array Cloning Technique
+    </td>
+    <td>
+        1665B
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1665/B" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Array%20Cloning%20Technique.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
