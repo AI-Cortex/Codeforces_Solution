@@ -3785,6 +3785,30 @@
     </td>
 </tr>
 
+<!-- 158 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        158
+    </td>
+    <td>
+        Double Strings
+    </td>
+    <td>
+        1703D
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1703/D" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Double%20Strings.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
