@@ -3809,6 +3809,30 @@
     </td>
 </tr>
 
+<!-- 159 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        159
+    </td>
+    <td>
+        Customising the Track
+    </td>
+    <td>
+        1543B
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1543/B" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Customising%20the%20Track.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
