@@ -3857,6 +3857,30 @@
     </td>
 </tr>
 
+<!-- 161 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        161
+    </td>
+    <td>
+        Maximum Increase
+    </td>
+    <td>
+        702A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/702/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Maximum%20Increase.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
