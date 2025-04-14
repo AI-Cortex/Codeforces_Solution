@@ -3881,6 +3881,30 @@
     </td>
 </tr>
 
+<!-- 162 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        162
+    </td>
+    <td>
+        Square
+    </td>
+    <td>
+        1921A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1921/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Square.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
