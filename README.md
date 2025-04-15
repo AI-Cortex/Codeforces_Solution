@@ -3905,6 +3905,30 @@
     </td>
 </tr>
 
+<!-- 163 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        163
+    </td>
+    <td>
+        Only Pluses
+    </td>
+    <td>
+        1992A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1992/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Only%20Pluses.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
