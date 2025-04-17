@@ -3953,6 +3953,30 @@
     </td>
 </tr>
 
+<!-- 165 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        165
+    </td>
+    <td>
+        Following Directions
+    </td>
+    <td>
+        1791B
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1791/B" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Following%20Directions.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
