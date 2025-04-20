@@ -4025,6 +4025,30 @@
     </td>
 </tr>
 
+<!-- 168 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        168
+    </td>
+    <td>
+        Rudolf and the Ticket
+    </td>
+    <td>
+        1941A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1941/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Rudolf%20and%20the%20Ticket.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
