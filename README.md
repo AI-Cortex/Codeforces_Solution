@@ -4097,6 +4097,30 @@
     </td>
 </tr>
 
+<!-- 171 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        171
+    </td>
+    <td>
+        A and B and Chess
+    </td>
+    <td>
+        519A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/519/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/A%20and%20B%20and%20Chess.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
