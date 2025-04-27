@@ -4193,6 +4193,30 @@
     </td>
 </tr>
 
+<!-- 175 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        175
+    </td>
+    <td>
+        Football
+    </td>
+    <td>
+        43A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/43/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Football.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
