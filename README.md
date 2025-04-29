@@ -4241,6 +4241,30 @@
     </td>
 </tr>
 
+<!-- 177 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        177
+    </td>
+    <td>
+        New Year Candles
+    </td>
+    <td>
+        379A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/379/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/New%20Year%20Candles.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
