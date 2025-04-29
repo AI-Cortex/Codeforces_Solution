@@ -4265,6 +4265,30 @@
     </td>
 </tr>
 
+<!-- 178 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        178
+    </td>
+    <td>
+        New Year Transportation
+    </td>
+    <td>
+        500A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/500/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/New%20Year%20Transportation.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
