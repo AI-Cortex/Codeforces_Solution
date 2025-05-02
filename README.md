@@ -4313,6 +4313,30 @@
     </td>
 </tr>
 
+<!-- 180 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        180
+    </td>
+    <td>
+        Road To Zero
+    </td>
+    <td>
+        1342A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1342/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Road%20To%20Zero.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
