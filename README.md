@@ -4385,6 +4385,30 @@
     </td>
 </tr>
 
+<!-- 183 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        183
+    </td>
+    <td>
+        Move Brackets
+    </td>
+    <td>
+        1374C
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1374/C" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Move%20Brackets.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
