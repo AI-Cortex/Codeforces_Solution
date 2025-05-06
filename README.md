@@ -4409,6 +4409,30 @@
     </td>
 </tr>
 
+<!-- 184 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        184
+    </td>
+    <td>
+        Arpa’s hard exam and Mehrdad’s naive cheat
+    </td>
+    <td>
+        742A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/742/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
