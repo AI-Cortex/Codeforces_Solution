@@ -4433,6 +4433,30 @@
     </td>
 </tr>
 
+<!-- 185 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        185
+    </td>
+    <td>
+        Multiplication Table
+    </td>
+    <td>
+        577A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/577/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Multiplication%20Table.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
