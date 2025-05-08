@@ -4457,6 +4457,30 @@
     </td>
 </tr>
 
+<!-- 186 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        186
+    </td>
+    <td>
+        Dreamoon and Stairs
+    </td>
+    <td>
+        476A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/476/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Dreamoon%20and%20Stairs.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
