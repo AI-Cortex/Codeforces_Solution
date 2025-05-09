@@ -4481,6 +4481,30 @@
     </td>
 </tr>
 
+<!-- 187 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        187
+    </td>
+    <td>
+        The number of positions
+    </td>
+    <td>
+        124A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/124/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/The%20number%20of%20positions.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
