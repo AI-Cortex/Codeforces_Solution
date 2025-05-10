@@ -4505,6 +4505,30 @@
     </td>
 </tr>
 
+<!-- 188 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        188
+    </td>
+    <td>
+        Nastia and Nearly Good Numbers
+    </td>
+    <td>
+        1521A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1521/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Nastia%20and%20Nearly%20Good%20Numbers.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
