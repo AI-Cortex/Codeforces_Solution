@@ -4553,6 +4553,30 @@
     </td>
 </tr>
 
+<!-- 190 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        190
+    </td>
+    <td>
+        Minimum Varied Number
+    </td>
+    <td>
+        1714C
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1714/C" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Minimum%20Varied%20Number.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
