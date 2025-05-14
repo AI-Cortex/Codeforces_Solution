@@ -4601,6 +4601,30 @@
     </td>
 </tr>
 
+<!-- 192 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        192
+    </td>
+    <td>
+        Print a Pedestal (Codeforces logo?)
+    </td>
+    <td>
+        1690A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1690/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Print%20a%20Pedestal%20%28Codeforces%20logo%29.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
