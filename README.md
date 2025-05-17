@@ -4673,6 +4673,30 @@
     </td>
 </tr>
 
+<!-- 195 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        195
+    </td>
+    <td>
+        Gregor and Cryptography
+    </td>
+    <td>
+        1549A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1549/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Gregor%20and%20Cryptography.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
