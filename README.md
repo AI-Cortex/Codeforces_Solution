@@ -4697,6 +4697,30 @@
     </td>
 </tr>
 
+<!-- 196 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        196
+    </td>
+    <td>
+        Turtle Math: Fast Three Task
+    </td>
+    <td>
+        1933B
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1933/B" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Turtle%20Math%20Fast%20Three%20Task.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
