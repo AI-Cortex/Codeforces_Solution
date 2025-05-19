@@ -4745,6 +4745,30 @@
     </td>
 </tr>
 
+<!-- 198 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        198
+    </td>
+    <td>
+        Dice Tower
+    </td>
+    <td>
+        225A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/225/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Dice%20Tower.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
