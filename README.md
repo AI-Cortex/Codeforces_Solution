@@ -4817,6 +4817,30 @@
     </td>
 </tr>
 
+<!-- 201 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        201
+    </td>
+    <td>
+        Vasya and Cornfield
+    </td>
+    <td>
+        1030B
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1030/B" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Vasya%20and%20Cornfield.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
