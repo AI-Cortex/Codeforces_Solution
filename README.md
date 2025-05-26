@@ -4889,6 +4889,30 @@
     </td>
 </tr>
 
+<!-- 204 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        204
+    </td>
+    <td>
+        Hexagons!
+    </td>
+    <td>
+        630D
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/630/D" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Hexagons%21.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
