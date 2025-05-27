@@ -4913,6 +4913,30 @@
     </td>
 </tr>
 
+<!-- 205 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        205
+    </td>
+    <td>
+        Card Game
+    </td>
+    <td>
+        2104C
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/2104/C" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Card%20Game.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
