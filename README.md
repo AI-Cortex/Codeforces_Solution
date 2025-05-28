@@ -4937,6 +4937,30 @@
     </td>
 </tr>
 
+<!-- 206 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        206
+    </td>
+    <td>
+        Passwords
+    </td>
+    <td>
+        721B
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/721/B" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Passwords.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
