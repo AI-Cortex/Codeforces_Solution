@@ -4961,6 +4961,30 @@
     </td>
 </tr>
 
+<!-- 207 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        207
+    </td>
+    <td>
+        Luxurious Houses
+    </td>
+    <td>
+        581B
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/581/B" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Luxurious%20Houses.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
