@@ -4985,6 +4985,30 @@
     </td>
 </tr>
 
+<!-- 208 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        208
+    </td>
+    <td>
+        Dorms War
+    </td>
+    <td>
+        1670B
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1670/B" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Dorms%20War.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
