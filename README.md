@@ -5009,6 +5009,30 @@
     </td>
 </tr>
 
+<!-- 209 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        209
+    </td>
+    <td>
+        Boys and Girls
+    </td>
+    <td>
+        253A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/253/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Boys%20and%20Girls.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
