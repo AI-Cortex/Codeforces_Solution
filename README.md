@@ -5057,6 +5057,30 @@
     </td>
 </tr>
 
+<!-- 211 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        211
+    </td>
+    <td>
+        Theatre Square
+    </td>
+    <td>
+        1A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Theatre%20Square.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
