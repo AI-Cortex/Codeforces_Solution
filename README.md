@@ -5081,25 +5081,25 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 212 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        212
     </td>
     <td>
-        .
+        Football
     </td>
     <td>
-        .
+        96A
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://codeforces.com/problemset/problem/96/A" target="_blank">
             problem
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Football%2096A.cpp" target="_blank">
             solution c++
         </a>
     </td>
