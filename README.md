@@ -5105,6 +5105,30 @@
     </td>
 </tr>
 
+<!-- 213 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        213
+    </td>
+    <td>
+        Young Physicist
+    </td>
+    <td>
+        69A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/69/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Young%20Physicist%2069A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
