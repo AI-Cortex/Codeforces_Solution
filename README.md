@@ -5129,6 +5129,30 @@
     </td>
 </tr>
 
+<!-- 214 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        214
+    </td>
+    <td>
+        Chat room
+    </td>
+    <td>
+        58A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/58/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Chat%20room%2058A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
