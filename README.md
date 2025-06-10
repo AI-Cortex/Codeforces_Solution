@@ -5249,6 +5249,30 @@
     </td>
 </tr>
 
+<!-- 219 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        219
+    </td>
+    <td>
+        IQ test
+    </td>
+    <td>
+        25A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/25/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/IQ%20test%2025A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
