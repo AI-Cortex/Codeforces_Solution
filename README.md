@@ -5273,6 +5273,30 @@
     </td>
 </tr>
 
+<!-- 220 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        220
+    </td>
+    <td>
+        Game With Sticks
+    </td>
+    <td>
+        451A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/451/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Game%20With%20Sticks%20451A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
