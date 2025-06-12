@@ -5297,6 +5297,30 @@
     </td>
 </tr>
 
+<!-- 221 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        221
+    </td>
+    <td>
+        Multiply by 2, divide by 6
+    </td>
+    <td>
+        1374B
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1374/B" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Multiply%20by%202%2C%20divide%20by%206%201374B.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
