@@ -5321,6 +5321,54 @@
     </td>
 </tr>
 
+<!-- 222 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        222
+    </td>
+    <td>
+        Line Trip
+    </td>
+    <td>
+        1901A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1901/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Line%20Trip%201901A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 223 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        223
+    </td>
+    <td>
+        Two Vessels
+    </td>
+    <td>
+        1872A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1872/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Two%20Vessels%201872A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
