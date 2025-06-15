@@ -5369,6 +5369,30 @@
     </td>
 </tr>
 
+<!-- 224 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        224
+    </td>
+    <td>
+        Vus the Cossack and a Contest
+    </td>
+    <td>
+        1186A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1186/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Vus%20the%20Cossack%20and%20a%20Contest%201186A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
