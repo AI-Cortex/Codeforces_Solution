@@ -5393,6 +5393,54 @@
     </td>
 </tr>
 
+<!-- 225 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        225
+    </td>
+    <td>
+        Primary Task
+    </td>
+    <td>
+        2000A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/2000/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Primary%20Task%202000A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 226 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        226
+    </td>
+    <td>
+        One and Two
+    </td>
+    <td>
+        1788A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1788/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/One%20and%20Two%201788A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
