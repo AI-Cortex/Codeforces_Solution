@@ -5513,6 +5513,30 @@
     </td>
 </tr>
 
+<!-- 230 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        230
+    </td>
+    <td>
+        Sum in Binary Tree
+    </td>
+    <td>
+        1843C
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1843/C" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Sum%20in%20Binary%20Tree%201843C.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
