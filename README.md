@@ -5537,6 +5537,30 @@
     </td>
 </tr>
 
+<!-- 231 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        231
+    </td>
+    <td>
+        Upscaling
+    </td>
+    <td>
+        1950B
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1950/B" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Upscaling%201950B.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
