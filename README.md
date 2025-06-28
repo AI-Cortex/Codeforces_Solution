@@ -5561,6 +5561,30 @@
     </td>
 </tr>
 
+<!-- 232 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        232
+    </td>
+    <td>
+        Make it Beautiful
+    </td>
+    <td>
+        1783A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1783/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Make%20it%20Beautiful%201783A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
