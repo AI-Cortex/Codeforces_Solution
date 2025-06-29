@@ -5585,6 +5585,30 @@
     </td>
 </tr>
 
+<!-- 233 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        233
+    </td>
+    <td>
+        Where's the Bishop?
+    </td>
+    <td>
+        1692C
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1692/C" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Where%27s%20the%20Bishop%201692C.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
