@@ -5609,6 +5609,30 @@
     </td>
 </tr>
 
+<!-- 234 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        234
+    </td>
+    <td>
+        Goals of Victory
+    </td>
+    <td>
+        1877A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1877/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Goals%20of%20Victory%201877A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
