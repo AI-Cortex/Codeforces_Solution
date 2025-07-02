@@ -5633,6 +5633,30 @@
     </td>
 </tr>
 
+<!-- 235 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        235
+    </td>
+    <td>
+        Maximum in Table
+    </td>
+    <td>
+        509A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/509/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Maximum%20in%20Table%20509A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
