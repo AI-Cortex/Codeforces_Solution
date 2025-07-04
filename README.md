@@ -5657,6 +5657,30 @@
     </td>
 </tr>
 
+<!-- 236 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        236
+    </td>
+    <td>
+        Desorting
+    </td>
+    <td>
+        1853A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1853/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Desorting%201853A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
