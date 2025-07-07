@@ -5681,6 +5681,30 @@
     </td>
 </tr>
 
+<!-- 237 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        237
+    </td>
+    <td>
+        Linear Keyboard
+    </td>
+    <td>
+        1607A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1607/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Linear%20Keyboard%201607A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
