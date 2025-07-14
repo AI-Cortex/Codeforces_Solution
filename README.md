@@ -5705,6 +5705,30 @@
     </td>
 </tr>
 
+<!-- 238 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        238
+    </td>
+    <td>
+        Ezzat and Two Subsequences
+    </td>
+    <td>
+        1557A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1557/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Ezzat%20and%20Two%20Subsequences%201557A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
