@@ -5729,6 +5729,30 @@
     </td>
 </tr>
 
+<!-- 239 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        239
+    </td>
+    <td>
+        Maximize?
+    </td>
+    <td>
+        1968A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1968/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Maximize%201968A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
