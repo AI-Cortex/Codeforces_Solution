@@ -5777,6 +5777,30 @@
     </td>
 </tr>
 
+<!-- 241 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        241
+    </td>
+    <td>
+        Review Site
+    </td>
+    <td>
+        1511A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1511/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Review%20Site%201511A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
