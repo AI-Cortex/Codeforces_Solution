@@ -5801,6 +5801,30 @@
     </td>
 </tr>
 
+<!-- 242 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        242
+    </td>
+    <td>
+        Image
+    </td>
+    <td>
+        1721A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/1721/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Image%201721A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
