@@ -5825,6 +5825,30 @@
     </td>
 </tr>
 
+<!-- 243 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        243
+    </td>
+    <td>
+        Villagers
+    </td>
+    <td>
+        2133B
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/2133/B" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Villagers%202133B.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
