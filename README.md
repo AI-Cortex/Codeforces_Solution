@@ -5849,6 +5849,30 @@
     </td>
 </tr>
 
+<!-- 244 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        244
+    </td>
+    <td>
+        Lucky Division
+    </td>
+    <td>
+        122A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/122/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Lucky%20Division%20122A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
