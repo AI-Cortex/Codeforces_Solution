@@ -5873,6 +5873,30 @@
     </td>
 </tr>
 
+<!-- 245 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        245
+    </td>
+    <td>
+        Kefa and First Steps
+    </td>
+    <td>
+        580A
+    </td>
+    <td>
+        <a href="https://codeforces.com/problemset/problem/580/A" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/Codeforces_Solution/blob/main/code%20c%2B%2B/Kefa%20and%20First%20Steps%20580A.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
